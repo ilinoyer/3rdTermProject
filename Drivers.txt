@@ -1,0 +1,4 @@
+12;Dawid;Pikula
+11;Marian;Kowalski
+13;Adam;Nowak
+14;Adam;Mickiewicz

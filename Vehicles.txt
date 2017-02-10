@@ -1,0 +1,4 @@
+100;1;Peugeot Boxer Bialy
+101;1;Peugeot Boxer Czerwony
+102;2;Iveco Biale
+103;3;Iveco Podwojne
